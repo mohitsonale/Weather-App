@@ -34,9 +34,9 @@ All displayed in a clean, responsive layout built with **Bootstrap 5**.
 
 ## 📂 Project Structure
 📦 weather-app
-├── index.html
-├── script.js
-├── README.md
+1. index.html
+2. script.js
+3. README.md
 
 
 
