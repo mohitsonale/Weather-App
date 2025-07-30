@@ -72,6 +72,9 @@ WeatherAPI.com
 RapidAPI
 Bootstrap
 
+⭐ Show Your Support
+If you like this project, give it a ⭐ on GitHub and share it!
+
 
 
 
