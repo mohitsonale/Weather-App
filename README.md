@@ -56,12 +56,7 @@ cd mohitsonale/Weather-App
 
 
 📸 Screenshots
-https://github.com/mohitsonale/Weather-App/blob/576b480fb491c1f5f1ab9dabac65b3dccf1730d1/Screenshot%20(1222).png
-https://github.com/mohitsonale/Weather-App/blob/576b480fb491c1f5f1ab9dabac65b3dccf1730d1/Screenshot%20(1223).png
-https://github.com/mohitsonale/Weather-App/blob/576b480fb491c1f5f1ab9dabac65b3dccf1730d1/Screenshot%20(1224).png
-https://github.com/mohitsonale/Weather-App/blob/576b480fb491c1f5f1ab9dabac65b3dccf1730d1/Screenshot%20(1225).png
-https://github.com/mohitsonale/Weather-App/blob/576b480fb491c1f5f1ab9dabac65b3dccf1730d1/Screenshot%20(1226).png
-https://github.com/mohitsonale/Weather-App/blob/576b480fb491c1f5f1ab9dabac65b3dccf1730d1/Screenshot%20(1227).png
+https://github.com/mohitsonale/Weather-App/tree/fc2aa78745b94178246d9ed84b4dd00b50cc200d/images
 
 📜 License
 This project is open-source and free to use for learning.
